@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="db_bms@127.0.0.1">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.4">
+    <root id="1"/>
+    <schema id="2" parent="1" name="book_db"/>
+    <schema id="3" parent="1" name="db_bms">
+      <Current>1</Current>
+    </schema>
+    <schema id="4" parent="1" name="houses"/>
+    <schema id="5" parent="1" name="indexdb"/>
+    <schema id="6" parent="1" name="information_schema"/>
+    <schema id="7" parent="1" name="mybatis"/>
+    <schema id="8" parent="1" name="mysql"/>
+    <schema id="9" parent="1" name="pinyougoudb"/>
+    <schema id="10" parent="1" name="pinyougoudb2"/>
+    <schema id="11" parent="1" name="springcloud_db"/>
+    <schema id="12" parent="1" name="test"/>
+  </database-model>
+</dataSource>
